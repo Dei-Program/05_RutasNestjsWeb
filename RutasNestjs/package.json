@@ -59,5 +59,10 @@
       "^.+\\.(t|j)s$": "ts-jest"
     },
     "coverageDirectory": "../coverage"
-  }
+  },
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
