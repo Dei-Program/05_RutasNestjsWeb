@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db56d986-4cc3-4a69-b7fb-24a855e617be" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RutasNestjs/src/log.middleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RutasNestjs/src/parametros.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RutasNestjs/src/usuario.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RutasNestjs/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RutasNestjs/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RutasNestjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RutasNestjs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RutasNestjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/RutasNestjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RutasNestjs/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RutasNestjs/src/app.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RutasNestjs/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RutasNestjs/src/main.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,40 +20,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="preguntasfrecuentes.controller.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RutasNestjs/src/preguntasfrecuentes.controller.ts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/header.html">
+      <file leaf-file-name="parametros.controller.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/parametros.controller.ts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="contenido.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/contenido.html">
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/main.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.module.ts">
+      <file leaf-file-name="main.hmr.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/main.hmr.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state>
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,9 +58,46 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/footer.html">
+      <file leaf-file-name="inicio.controller.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/inicio.controller.ts">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.service.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.controller.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.controller.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.controller.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -79,6 +110,8 @@
       <list>
         <option value="$PROJECT_DIR$/RutasNestjs/src/html/contenido.html" />
         <option value="$PROJECT_DIR$/RutasNestjs/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/RutasNestjs/src/app.controller.ts" />
+        <option value="$PROJECT_DIR$/RutasNestjs/src/main.ts" />
       </list>
     </option>
   </component>
@@ -96,8 +129,7 @@
       <path value="$PROJECT_DIR$/RutasNestjs/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -177,25 +209,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526485408926</updated>
-      <workItem from="1526485410488" duration="2074000" />
+      <workItem from="1526485410488" duration="3454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2074000" />
+    <option name="totallyTimeSpent" value="3454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5322339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25988287" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -217,9 +249,6 @@
     <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/preguntasfrecuentes.controller.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/footer.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -229,9 +258,43 @@
     <entry file="file://$PROJECT_DIR$/RutasNestjs/src/html/contenido.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/usuario.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/preguntasfrecuentes.controller.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/parametros.controller.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/main.hmr.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -239,12 +302,34 @@
     <entry file="file://$PROJECT_DIR$/RutasNestjs/src/log.middleware.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/inicio.controller.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RutasNestjs/src/app.controller.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
